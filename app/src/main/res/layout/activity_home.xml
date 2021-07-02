@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/size_1"
+    android:orientation="vertical"
+    tools:context=".ui.home.HomeActivity">
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tabsMovie"
+        android:background="?attr/colorPrimary"
+        app:tabTextColor="@color/white"
+        app:tabIndicatorColor="@color/white"
+        style="@style/size_3"/>
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/view_pagerMovie"
+        style="@style/size_1"/>
+
+</LinearLayout>

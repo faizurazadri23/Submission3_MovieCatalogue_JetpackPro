@@ -1,0 +1,415 @@
+{
+    "dates": {
+        "maximum": "2021-07-04",
+        "minimum": "2021-06-19"
+    },
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/6MKr3KgOLmzOP6MSuZERO41Lpkt.jpg",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "id": 337404,
+            "original_language": "en",
+            "original_title": "Cruella",
+            "overview": "In 1970s London amidst the punk rock revolution, a young grifter named Estella is determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief, and together they are able to build a life for themselves on the London streets. One day, Estella’s flair for fashion catches the eye of the Baroness von Hellman, a fashion legend who is devastatingly chic and terrifyingly haute. But their relationship sets in motion a course of events and revelations that will cause Estella to embrace her wicked side and become the raucous, fashionable and revenge-bent Cruella.",
+            "popularity": 5055.01,
+            "poster_path": "/rTh4K5uw9HypmpGslcKd4QfHl93.jpg",
+            "release_date": "2021-05-26",
+            "title": "Cruella",
+            "video": false,
+            "vote_average": 8.7,
+            "vote_count": 2435
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qi6Edc1OPcyENecGtz8TF0DUr9e.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 423108,
+            "original_language": "en",
+            "original_title": "The Conjuring: The Devil Made Me Do It",
+            "overview": "Paranormal investigators Ed and Lorraine Warren encounter what would become one of the most sensational cases from their files. The fight for the soul of a young boy takes them beyond anything they'd ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense.",
+            "popularity": 4432.301,
+            "poster_path": "/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg",
+            "release_date": "2021-05-25",
+            "title": "The Conjuring: The Devil Made Me Do It",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 1735
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7JENyUT8ABxcvrcijDBVpdjgCY9.jpg",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "id": 602734,
+            "original_language": "en",
+            "original_title": "Spiral: From the Book of Saw",
+            "overview": "Working in the shadow of an esteemed police veteran, brash Detective Ezekiel “Zeke” Banks and his rookie partner take charge of a grisly investigation into murders that are eerily reminiscent of the city’s gruesome past.  Unwittingly entrapped in a deepening mystery, Zeke finds himself at the center of the killer’s morbid game.",
+            "popularity": 2178.434,
+            "poster_path": "/lcyKve7nXRFgRyms9M1bndNkKOx.jpg",
+            "release_date": "2021-05-12",
+            "title": "Spiral: From the Book of Saw",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 295
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z2UtGA1WggESspi6KOXeo66lvLx.jpg",
+            "genre_ids": [
+                878,
+                53,
+                27
+            ],
+            "id": 520763,
+            "original_language": "en",
+            "original_title": "A Quiet Place Part II",
+            "overview": "Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.",
+            "popularity": 1852.826,
+            "poster_path": "/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
+            "release_date": "2021-05-21",
+            "title": "A Quiet Place Part II",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 180
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9yBVqNruk6Ykrwc32qrK2TIE5xw.jpg",
+            "genre_ids": [
+                28,
+                14,
+                12
+            ],
+            "id": 460465,
+            "original_language": "en",
+            "original_title": "Mortal Kombat",
+            "overview": "Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung's best warrior, Sub-Zero, seeks out and trains with Earth's greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.",
+            "popularity": 1648.249,
+            "poster_path": "/nkayOAUBUu4mMvyNf9iHSUiPjF1.jpg",
+            "release_date": "2021-04-07",
+            "title": "Mortal Kombat",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 2952
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hJuDvwzS0SPlsE6MNFOpznQltDZ.jpg",
+            "genre_ids": [
+                16,
+                12,
+                14,
+                10751,
+                28
+            ],
+            "id": 527774,
+            "original_language": "en",
+            "original_title": "Raya and the Last Dragon",
+            "overview": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it’s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.",
+            "popularity": 1062.111,
+            "poster_path": "/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg",
+            "release_date": "2021-03-03",
+            "title": "Raya and the Last Dragon",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 3267
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6zbKgwgaaCyyBXE4Sun4oWQfQmi.jpg",
+            "genre_ids": [
+                80,
+                28,
+                53,
+                35
+            ],
+            "id": 615457,
+            "original_language": "en",
+            "original_title": "Nobody",
+            "overview": "Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor — a \"nobody.\" When two thieves break into his home one night, Hutch's unknown long-simmering rage is ignited and propels him on a brutal path that will uncover dark secrets he fought to leave behind.",
+            "popularity": 961.52,
+            "poster_path": "/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg",
+            "release_date": "2021-03-26",
+            "title": "Nobody",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 1974
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg",
+            "genre_ids": [
+                28,
+                12,
+                53
+            ],
+            "id": 385128,
+            "original_language": "en",
+            "original_title": "F9",
+            "overview": "Dominic Toretto and his crew battle the most skilled assassin and high-performance driver they've ever encountered: his forsaken brother.",
+            "popularity": 532.044,
+            "poster_path": "/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg",
+            "release_date": "2021-05-19",
+            "title": "F9",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 107
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/reDeoOvnih7Zv2xKXZAZL7w8KP6.jpg",
+            "genre_ids": [
+                10751,
+                14,
+                16,
+                35
+            ],
+            "id": 529203,
+            "original_language": "en",
+            "original_title": "The Croods: A New Age",
+            "overview": "Searching for a safer habitat, the prehistoric Crood family discovers an idyllic, walled-in paradise that meets all of its needs. Unfortunately, they must also learn to live with the Bettermans -- a family that's a couple of steps above the Croods on the evolutionary ladder. As tensions between the new neighbors start to rise, a new threat soon propels both clans on an epic adventure that forces them to embrace their differences, draw strength from one another, and survive together.",
+            "popularity": 461.355,
+            "poster_path": "/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg",
+            "release_date": "2020-11-25",
+            "title": "The Croods: A New Age",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 2156
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7HtvmsLrDeiAgDGa1W3m6senpfE.jpg",
+            "genre_ids": [
+                12,
+                16,
+                10751
+            ],
+            "id": 681260,
+            "original_language": "en",
+            "original_title": "Maya the Bee: The Golden Orb",
+            "overview": "When Maya, a headstrong little bee, and her best friend Willi, rescue an ant princess they find themselves in the middle of an epic bug battle that will take them to strange new worlds and test their friendship to its limits.",
+            "popularity": 403.779,
+            "poster_path": "/tMS2qcbhbkFpcwLnbUE9o9IK4HH.jpg",
+            "release_date": "2021-01-07",
+            "title": "Maya the Bee: The Golden Orb",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 35
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sOA1ubMAQ6dCIrjoFIEDt3FCxFf.jpg",
+            "genre_ids": [
+                878,
+                10749,
+                53
+            ],
+            "id": 597890,
+            "original_language": "en",
+            "original_title": "Voyagers",
+            "overview": "With the future of the human race at stake, a group of young men and women -- bred for intelligence and obedience -- embark on an expedition to colonize a distant planet. When they uncover disturbing secrets about the mission, they defy their training and begin to explore their most primitive natures. As life on the ship descends into chaos, they soon become consumed by fear, lust and an insatiable hunger for power.",
+            "popularity": 198.614,
+            "poster_path": "/gn2vCmWO7jQBBto9SYuBHYZARaU.jpg",
+            "release_date": "2021-04-08",
+            "title": "Voyagers",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 133
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uEJuqp08dH6IQwZJGASlPZOXqKu.jpg",
+            "genre_ids": [
+                18,
+                10402,
+                10749
+            ],
+            "id": 467909,
+            "original_language": "en",
+            "original_title": "In the Heights",
+            "overview": "The story of Usnavi, a bodega owner who has mixed feelings about closing his store and retiring to the Dominican Republic or staying in Washington Heights.",
+            "popularity": 169.865,
+            "poster_path": "/RO4KoJyoQMQzh9z76d4v4FJMmJ.jpg",
+            "release_date": "2021-06-10",
+            "title": "In the Heights",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yuxdzbQHEecWGOvaXeEYVtIyAfn.jpg",
+            "genre_ids": [
+                878,
+                27
+            ],
+            "id": 515454,
+            "original_language": "en",
+            "original_title": "Come True",
+            "overview": "Looking for an escape from her recurring nightmares, 18-year-old Sarah submits to a university sleep study, but soon realizes she's become the conduit to a frightening new discovery.",
+            "popularity": 165.492,
+            "poster_path": "/hGPGRRz6FTIRed1zestdWrV2Iwd.jpg",
+            "release_date": "2021-03-12",
+            "title": "Come True",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 55
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nN4Gs3vZAOJ1D6FRtrwbU9VGYwU.jpg",
+            "genre_ids": [
+                16,
+                10749,
+                10751
+            ],
+            "id": 486589,
+            "original_language": "en",
+            "original_title": "Red Shoes And The Seven Dwarfs",
+            "overview": "Princes who have been turned into Dwarfs seek the red shoes of a lady in order to break the spell, although it will not be easy.",
+            "popularity": 156.416,
+            "poster_path": "/MBiKqTsouYqAACLYNDadsjhhC0.jpg",
+            "release_date": "2019-07-25",
+            "title": "Red Shoes And The Seven Dwarfs",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 717
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ee83WVGFFihsTRd07j9KIgXFbHF.jpg",
+            "genre_ids": [
+                28,
+                35,
+                53
+            ],
+            "id": 522931,
+            "original_language": "en",
+            "original_title": "Hitman's Wife's Bodyguard",
+            "overview": "The world’s most lethal odd couple – bodyguard Michael Bryce and hitman Darius Kincaid – are back on another life-threatening mission. Still unlicensed and under scrutiny, Bryce is forced into action by Darius's even more volatile wife, the infamous international con artist Sonia Kincaid. As Bryce is driven over the edge by his two most dangerous protectees, the trio get in over their heads in a global plot and soon find that they are all that stand between Europe and a vengeful and powerful madman.",
+            "popularity": 116.511,
+            "poster_path": "/oht9CZHNDBEu5KitgxUsb0LhQ8v.jpg",
+            "release_date": "2021-06-10",
+            "title": "Hitman's Wife's Bodyguard",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a9jZrU7LJk6mAUjmkbEmTiC52l0.jpg",
+            "genre_ids": [
+                35,
+                10751,
+                18
+            ],
+            "id": 425001,
+            "original_language": "en",
+            "original_title": "The War with Grandpa",
+            "overview": "Peter is thrilled that his Grandpa is coming to live with his family. That is, until Grandpa moves into Peter's room, forcing him upstairs into the creepy attic. And though he loves his Grandpa, he wants his room back - so he has no choice but to declare war.",
+            "popularity": 112.007,
+            "poster_path": "/ltyARDw2EFXZ2H2ERnlEctXPioP.jpg",
+            "release_date": "2020-08-27",
+            "title": "The War with Grandpa",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 521
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2VBf6N8deNZIWAMGvR7Pu62D5Al.jpg",
+            "genre_ids": [
+                53,
+                18,
+                9648
+            ],
+            "id": 522406,
+            "original_language": "en",
+            "original_title": "Flashback",
+            "overview": "Frederick Fitzell is living his best life—until he starts having horrific visions of Cindy, a girl who vanished in high school. After reaching out to old friends with whom he used to take a mystery drug called Mercury, Fredrick realizes the only way to stop the visions lies deep within his own memories, so he embarks on a terrifying mental odyssey to learn the truth.",
+            "popularity": 110.58,
+            "poster_path": "/nc7szo7ChOknEk8qCkABJyNgl5y.jpg",
+            "release_date": "2021-06-03",
+            "title": "Flashback",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 33
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/t22fWbzdnThPseipsdpwgdPOPCR.jpg",
+            "genre_ids": [
+                35,
+                28
+            ],
+            "id": 726739,
+            "original_language": "en",
+            "original_title": "Cats & Dogs 3: Paws Unite",
+            "overview": "It's been ten years since the creation of the Great Truce, an elaborate joint-species surveillance system designed and monitored by cats and dogs to keep the peace when conflicts arise. But when a tech-savvy villain hacks into wireless networks to use frequencies only heard by cats and dogs, he manipulates them into conflict and the worldwide battle between cats and dogs is BACK ON. Now, a team of inexperienced and untested agents will have to use their old-school animal instincts to restore order and peace between cats and dogs everywhere.",
+            "popularity": 107.905,
+            "poster_path": "/4BgSWFMW2MJ0dT5metLzsRWO7IJ.jpg",
+            "release_date": "2020-10-02",
+            "title": "Cats & Dogs 3: Paws Unite",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 137
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5HjzYTihkH7EvOWSE7KcsF6pBMM.jpg",
+            "genre_ids": [
+                10751,
+                35,
+                12,
+                16,
+                14
+            ],
+            "id": 522478,
+            "original_language": "en",
+            "original_title": "Peter Rabbit 2: The Runaway",
+            "overview": "Bea, Thomas, and the rabbits have created a makeshift family, but despite his best efforts, Peter can’t seem to shake his mischievous reputation. Adventuring out of the garden, Peter finds himself in a world where his mischief is appreciated, but when his family risks everything to come looking for him, Peter must figure out what kind of bunny he wants to be.",
+            "popularity": 103.456,
+            "poster_path": "/cycDz68DtTjJrDJ1fV8EBq2Xdpb.jpg",
+            "release_date": "2021-03-25",
+            "title": "Peter Rabbit 2: The Runaway",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 28
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iueb8P2aSE2JL21kgoyhnmmeFb5.jpg",
+            "genre_ids": [
+                28,
+                878,
+                53,
+                9648
+            ],
+            "id": 513310,
+            "original_language": "en",
+            "original_title": "Boss Level",
+            "overview": "A retired special forces officer is trapped in a never-ending time loop on the day of his death.",
+            "popularity": 95.298,
+            "poster_path": "/wKTsXAQvDy6uip7EiCvHUuCSQJX.jpg",
+            "release_date": "2021-02-19",
+            "title": "Boss Level",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 274
+        }
+    ],
+    "total_pages": 14,
+    "total_results": 264
+}

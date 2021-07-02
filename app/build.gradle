@@ -1,0 +1,73 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    compileSdkVersion 30
+    buildToolsVersion "30.0.3"
+
+    defaultConfig {
+        applicationId "com.faizurazadri.moviecatalogue"
+        minSdkVersion 21
+        targetSdkVersion 30
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        vectorDrawables.useSupportLibrary = true
+        buildConfigField "String", "SERVER_IMG" , "\"https://image.tmdb.org/t/p/w500/\""
+    }
+
+    buildTypes {
+
+        debug{
+
+        }
+
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    buildFeatures{
+        viewBinding true
+    }
+}
+
+dependencies {
+
+    implementation "androidx.appcompat:appcompat:$appCompatVersion"
+    implementation "com.google.android.material:material:$materialVersion"
+    implementation "androidx.constraintlayout:constraintlayout:$constraintLayoutVersion"
+
+    implementation "androidx.recyclerview:recyclerview:$recyclerViewVersion"
+    implementation "com.github.bumptech.glide:glide:$glideVersion"
+    implementation "androidx.legacy:legacy-support-v4:$legacy_support"
+
+    implementation "androidx.lifecycle:lifecycle-extensions:$archLifecycleVersion_extensions"
+    testImplementation "androidx.arch.core:core-testing:$archLifecycleVersion"
+
+    testImplementation "junit:junit:$junitVersion"
+    testImplementation "junit:junit:$junitVersion"
+
+    testImplementation "org.mockito:mockito-core:$mockitoVersion"
+
+    androidTestImplementation "androidx.test.espresso:espresso-contrib:$espressoVersion"
+    androidTestImplementation "androidx.test.espresso:espresso-core:$espressoVersion"
+    androidTestImplementation "androidx.test:runner:$androidTestVersion"
+    androidTestImplementation "androidx.test:core:$androidTestVersion"
+    androidTestImplementation "androidx.test:rules:$androidTestVersion"
+    androidTestImplementation "androidx.test.ext:junit:$junitExtversion"
+
+    implementation "androidx.test.espresso:espresso-idling-resource:$idlingResourceVersion"
+
+    implementation "androidx.room:room-runtime:$roomRuntimeVersion"
+    annotationProcessor "androidx.room:room-compiler:$roomVersion"
+
+    implementation "androidx.paging:paging-runtime:$paging"
+}
